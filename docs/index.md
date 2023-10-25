@@ -21,7 +21,7 @@ hero:
 features:
   - icon: 🌞
     title: 首记
-    details: 记录日常
+    details: 随手记录，随缘
     link: /articles/home/首记
     linkText: 查看更多
   - icon: ⚡️
