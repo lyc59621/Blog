@@ -1,0 +1,2 @@
+# Blog
+JDragon‘s Blog
