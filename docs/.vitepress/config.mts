@@ -13,7 +13,7 @@ export default {
             items: [
               { text: '首记', link: '/articles/home/首记' },
               { text: '2023-10-25随记', link: '/articles/home/2023-10-25随记' },
-
+              { text: '2023-10-27随记', link: '/articles/home/2023-10-27随记' },
             ],
           },
         ],
