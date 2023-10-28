@@ -7,7 +7,6 @@ export default {
     themeConfig: {
         logo: "/images/logo.png",
         nav: [
-         
           {
             text: '随手记',
             items: [
@@ -21,10 +20,8 @@ export default {
          "/articles/other/": [
               {
                 items: [
-                  {
-                    text: "暂无",
-                    link: "/articles/other/",
-                  },
+                  { text: 'Markdown 语法记录', link: '/articles/other/Markdown 语法记录' },
+                  { text: 'Mark 速查表', link: '/articles/other/Mark 速查表' },
                 ],
               }
             ],

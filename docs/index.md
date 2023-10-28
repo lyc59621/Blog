@@ -30,9 +30,9 @@ features:
     link: 
     linkText: 查看更多
   - icon: 🛠️
-    title: 后续2
-    details: 无内容
-    link: 
+    title: Markdown 语法记录
+    details: 学习记录
+    link: /articles/other/Markdown 语法记录
     linkText: 查看更多
 ---
 
