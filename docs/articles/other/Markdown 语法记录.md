@@ -33,7 +33,7 @@ See the section on [`code`](#code).
 
 # 插入图片
 \* 测试图片
-![这是图片](markdown_image.jpg "测试图片")
+![这是图片](../../public/images/markdown_image.jpg "测试图片")
 
 # 表格
 ```
